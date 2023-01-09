@@ -1,0 +1,19 @@
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    border: solid black;
+}
+
+#decreaseBtn {
+    background-color: crimson;
+    font-size: 30px;
+    border: solid black;
+    margin-left: 550px;
+}
+
+#increaseBtn {
+    background-color: chartreuse;
+    font-size: 30px;
+    border: solid black;
+}
